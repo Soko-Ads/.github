@@ -21,11 +21,11 @@ walled gardens, opaque exchanges, and fraudulent traffic. Soko Ads builds
 the agentic intelligence layer that lets independent publishers take
 control of their own demand, inventory, and identity graphs.
 
-Our flagship platform, **AEON**, is an AI-native publisher intelligence
+Our flagship platform, **Soko**, is an AI-native publisher intelligence
 system that combines large-model agents with real-time bidstream telemetry
 to automate the operational work that sell-side teams currently do by hand.
 
-## The AEON pipeline
+## The Soko pipeline
 
 A six-phase agent pipeline that turns raw bidstream + catalog data into
 optimized PMP deals:
@@ -86,7 +86,7 @@ optimized PMP deals:
 
 ## What's coming to this org
 
-- [ ] `aeon-platform` — full-stack monorepo (frontend, backend, agents, infra)
+- [ ] `soko-platform` — full-stack monorepo (frontend, backend, agents, infra)
 - [ ] `aeon-agents` — open components of the agent framework
 - [ ] `soko-design-system` — tokens, primitives, publisher dashboards
 - [ ] `openrtb-utils` — parsing, validation, fixtures
@@ -94,7 +94,7 @@ optimized PMP deals:
 
 ## Get in touch
 
-Interested in piloting AEON on your inventory, partnering on identity, or
+Interested in piloting Soko on your inventory, partnering on identity, or
 joining the team?
 
 - **Email:** [aggrey@sokoads.com](mailto:aggrey@sokoads.com)
